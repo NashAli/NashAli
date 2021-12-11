@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NashAli
 - 👀 I’m interested in for the time being, electronics, programming...
-- 🌱 I’m currently learning ...  Kotlin??
+- 🌱 I’m currently learning ...  Kotlin & Python
 - 💞️ I’m looking to collaborate on various projects, time willing.
 - 📫 How to reach me ... email: zna1958@gmail.com
 - All Projects: https://www.hackster.io/nash-ali
